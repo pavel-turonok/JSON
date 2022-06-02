@@ -1,4 +1,7 @@
-1. Любимый фильм: Логан
-2. Любимый сериал: Очень странные дела
-3. Любимая еда: Пицца
-4. Любимое время года: Лето
+{
+    "fav_movie": "Logan",
+    "fav_TVSHOW": "Stranger_things",
+    "fav_food": "Pizza",
+    "fav_season": "Summer",
+    "country_to_visit": "Italy"
+}
